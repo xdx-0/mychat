@@ -1,0 +1,1 @@
+this is to be used with apache and mysql server. xamp maybe.
